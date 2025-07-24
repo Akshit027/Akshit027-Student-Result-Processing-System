@@ -1,5 +1,3 @@
-# Akshit027-Student-Result-Processing-System
-
 # 🎓 Student Result Processing System
 
 A MySQL-based system designed to manage student grades, calculate GPAs, generate semester-wise results, and produce rank lists using SQL queries and database triggers.
