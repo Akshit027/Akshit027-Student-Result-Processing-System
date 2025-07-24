@@ -59,7 +59,6 @@ To automate student result management and performance analysis for academic inst
 ## 👨‍💻 Author
 
 **Akshit Jaiswal**    
-📧 [akshit.jaiswal@yahoo.com]
 
 ---
 
